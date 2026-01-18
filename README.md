@@ -8,4 +8,4 @@ other methods > github
 terms > scroll down > community
 open this repo
 
-google.com
+https://google.com
