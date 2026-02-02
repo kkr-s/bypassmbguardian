@@ -9,3 +9,7 @@ terms > scroll down > community
 open this repo
 
 https://google.com
+
+personal use:
+jp umalator https://kachi-dev.github.io/uma-tools/umalator/
+global js search up kachi dev
