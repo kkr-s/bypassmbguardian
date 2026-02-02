@@ -1,15 +1,15 @@
 # bypassmbguardian
 
-steps
+steps<br>
 
-chrome://chrome-signin
-google@d11.org
-other methods > github
-terms > scroll down > community
-open this repo
+chrome://chrome-signin<br>
+google@d11.org<br>
+other methods > github<br>
+terms > scroll down > community<br>
+open this repo<br>
 
 https://google.com
 
-personal use:
-jp umalator https://kachi-dev.github.io/uma-tools/umalator/
-global js search up kachi dev
+personal use:<br>
+jp umalator https://kachi-dev.github.io/uma-tools/umalator/<br>
+global js search up kachi dev<br>
